@@ -1,0 +1,7 @@
+{
+  "fe_solve_seconds": 0.030370530104264618,
+  "gp_predict_seconds": 5.2236904157325625e-06,
+  "gbr_predict_seconds": 9.981764014810324e-07,
+  "speedup_gp": 5813.99885659294,
+  "speedup_gbr": 30426.014940047375
+}

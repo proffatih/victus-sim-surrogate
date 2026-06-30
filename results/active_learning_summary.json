@@ -1,0 +1,28 @@
+{
+  "target_0.01": {
+    "active_mean": 26.4,
+    "active_std": 1.9595917942265426,
+    "random_mean": 28.8,
+    "random_std": 1.5999999999999999,
+    "saving_fraction": 0.08333333333333337,
+    "reached_all": true
+  },
+  "target_0.005": {
+    "active_mean": 34.4,
+    "active_std": 3.2,
+    "random_mean": 37.6,
+    "random_std": 5.4258639865002145,
+    "saving_fraction": 0.08510638297872353,
+    "reached_all": true
+  },
+  "target_0.003": {
+    "active_mean": 49.6,
+    "active_std": 1.9595917942265426,
+    "random_mean": 56.0,
+    "random_std": 5.656854249492381,
+    "saving_fraction": 0.11428571428571421,
+    "reached_all": true
+  },
+  "frac_budgets_active_better": 0.8695652173913043,
+  "mean_rmse_reduction_pct": 16.245174787421057
+}

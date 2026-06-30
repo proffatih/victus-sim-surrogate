@@ -1,0 +1,10 @@
+{
+  "refine_level": 6,
+  "ndofs": 4225,
+  "median_solve_seconds": 0.030167044489644468,
+  "std_solve_seconds": 0.00025864510816666394,
+  "n_samples": 600,
+  "total_dataset_build_seconds": 17.60690560308285,
+  "mms_rate": 1.968473072811454,
+  "seed": 20260617
+}
